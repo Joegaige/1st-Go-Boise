@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/GO Map - 3D Map For AR Gaming/Boise Go/Scenes/Boise Go.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
